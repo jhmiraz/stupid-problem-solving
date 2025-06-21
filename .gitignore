@@ -1,0 +1,19 @@
+# Ignore Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore IDE-specific folders
+.idea/
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
