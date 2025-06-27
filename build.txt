@@ -1,0 +1,9 @@
+git remote add origin https://github.com/jhmiraz/stupid-problem-solving.git
+git branch -M main
+git push -u origin main
+
+
+git status
+git add .
+
+git commit -m "massage"
